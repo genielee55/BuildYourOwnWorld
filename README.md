@@ -1,6 +1,8 @@
 # BuildYourOwnWorld
 
 BuildYourOwnWorld is a 2D tile-based world exploration engine with an overhead perspective, in which the player uses WASD to maneuver around obstacles and collect flowers to unlock a door and win the game. Each world is pseudorandomly generated (using the Random library), and saving/loading/replaying are possible with the Q (quit), L (load), and R (replay) keys.
+
+<img src="demo/demo.gif" alt="demo_gif" width="100%"/>
  
 
 Feature | Description
