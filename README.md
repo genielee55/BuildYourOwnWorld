@@ -7,6 +7,6 @@ BuildYourOwnWorld is a 2D tile-based world exploration engine with an overhead p
 
 Feature | Description
 ------- | -------
-[MapGenerator](https://github.com/genielee55/BearMaps/blob/main/bearmaps/proj2d/server/handler/impl/RasterAPIHandler.java) | Pseudorandomly generates map with connected, distinct rooms and hallways using the StdDraw library.
-[Engine](https://github.com/genielee55/BearMaps/blob/main/bearmaps/proj2d/AugmentedStreetMapGraph.java) | Implements interactive component to game by gathering input string from user to move avatar accordingly and storing avatar's movements in txt file (for saving/loading features).
-[TileSet](https://github.com/genielee55/BearMaps/blob/main/bearmaps/proj2ab/KDTree.java) | Contains tile objects for front-end features of the game.
+[MapGenerator](https://github.com/genielee55/BuildYourOwnWorld/blob/main/byow/Core/MapGenerator.java) | Pseudorandomly generates map with connected, distinct rooms and hallways using the StdDraw library.
+[Engine](https://github.com/genielee55/BuildYourOwnWorld/blob/main/byow/Core/Engine.java) | Implements interactive component to game by gathering input string from user to move avatar accordingly and storing avatar's movements in txt file (for saving/loading features).
+[TileSet](https://github.com/genielee55/BuildYourOwnWorld/blob/main/byow/TileEngine/Tileset.java) | Contains tile objects for front-end features of the game.
